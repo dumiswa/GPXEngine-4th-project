@@ -1,0 +1,12 @@
+/Users/ilalekomtsev/Downloads/Code Samples Wk4/Week4+/002_line_collision_detection/bin/Debug/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/Code Samples Wk4/Week4+/002_line_collision_detection/bin/Debug/GXPEngine.pdb
+/Users/ilalekomtsev/Downloads/Code Samples Wk4/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.csproj.AssemblyReference.cache
+/Users/ilalekomtsev/Downloads/Code Samples Wk4/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.csproj.CoreCompileInputs.cache
+/Users/ilalekomtsev/Downloads/Code Samples Wk4/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/Code Samples Wk4/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.pdb
+/Users/ilalekomtsev/Downloads/4th project game/Week4+/002_line_collision_detection/bin/Debug/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/4th project game/Week4+/002_line_collision_detection/bin/Debug/GXPEngine.pdb
+/Users/ilalekomtsev/Downloads/4th project game/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.csproj.AssemblyReference.cache
+/Users/ilalekomtsev/Downloads/4th project game/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.csproj.CoreCompileInputs.cache
+/Users/ilalekomtsev/Downloads/4th project game/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/4th project game/Week4+/002_line_collision_detection/obj/x86/Debug/GXPEngine.pdb
